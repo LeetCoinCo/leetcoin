@@ -1,6 +1,7 @@
 # LeetCoin (https://leetcoin.co)
 
-LeetCoin is where Web3 devs Level Up
+### LeetCoin is where Web3 devs Level Up
+![](https://c.tenor.com/CZSVZ5LBKIYAAAAC/levelup.gif)
 
 ## 1. Getting Started
 
